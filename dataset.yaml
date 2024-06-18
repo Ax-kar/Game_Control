@@ -1,9 +1,0 @@
-
-train: C:\Users\Administrator\Desktop\model_data\final_train_balanced
-val: C:\Users\Administrator\Desktop\model_data\final_val_correct_classes
-test: C:\Users\Administrator\Desktop\model_data\final_test_correct_classes
-# Number of classes
-nc: 4
-
-# Class names
-names: ['thumbsup', 'thumbsdown', 'thumbsleft', 'thumbsright']
